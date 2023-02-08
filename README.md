@@ -5,7 +5,7 @@ Página web de 2Fams hospedada en github.io
 
 # Equipo
 
-**Ana Chicote Villas**
+**Ana Chicote Villar**
 
 **Darío Muñoz Rostami**
 
@@ -13,6 +13,6 @@ Página web de 2Fams hospedada en github.io
 
 **Marta Quintana Portales**
 
-**Miguel Jimenez Granizo**
+**Miguel Jiménez Granizo**
 
 **Sofya Mayskaya**
