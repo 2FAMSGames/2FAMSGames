@@ -1,7 +1,7 @@
 2FAMS Games Website
 ===================
 
-Página web de 2Fams hospedada en github.io
+Página web de 2Fams hospedada en github.io   2famsgames.github.io
 
 # Equipo
 
